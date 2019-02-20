@@ -1,7 +1,7 @@
 # DATABASE ASSIGNMENT
 
 ## ER Diagram:
-![ER Diagram](https://raw.githubusercontent.com/dharmendra-qait/database-class-assignment/master/Sample%20ER%20Diagram.jpg)
+![ER Diagram]https://github.com/parichay28/SQL_Queries/blob/master/Sample%20ER%20Diagram.jpg)
 
 ## Write Queries for:
   1. List the customer name, check number, payment date and amount for the customer with customer number 1001.
